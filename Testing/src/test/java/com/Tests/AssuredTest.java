@@ -32,7 +32,7 @@ import static org.hamcrest.Matchers.notNullValue;
 
 @Epic ("Rest Assured POC - Example Tests")
 @Feature ("Performing different API Tests using Rest-Assured")
-public class TestGetRequests {
+public class AssuredTest {
 
 
     @DataProvider (name = "getUserData")
